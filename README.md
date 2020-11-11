@@ -17,5 +17,5 @@ Notes Of A Scale Keys ► 1, 2, 3, 4, 5, 6, 7, 8, 9, 0,
 5. Understand How To Build Chords.
 6. Understand Chord Patterns And Progressions.
 
-(Chords And Jamming Example Video)[https://www.youtube.com/watch?v=B0TjbzHoWek]
-(On My Way Chords){https://www.youtube.com/watch?v=z89nB4Fn2t8]
+[Chords And Jamming Example Video](https://www.youtube.com/watch?v=B0TjbzHoWek)
+[On My Way Chords](https://www.youtube.com/watch?v=z89nB4Fn2t8)
