@@ -24,6 +24,8 @@ Learn Piano Major/Minor Scales/Chords. Create Your Own Music Using Your Computer
 5. Understand How To Build Chords.
 6. Understand Chord Patterns And Progressions.
 
+[Pianical Windows Application(.exe file)](https://drive.google.com/file/d/19St_YspY8KqPLPgyydqqhMfeay2Jp1yR/view?usp=sharing)
+
 [Chords And Jamming Example Video](https://www.youtube.com/watch?v=B0TjbzHoWek)
 
 [On My Way Chords Pianical](https://www.youtube.com/watch?v=z89nB4Fn2t8)
