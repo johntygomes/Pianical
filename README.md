@@ -12,6 +12,10 @@ Learn Piano Major/Minor Scales/Chords. Create Your Own Music Using Your Computer
                         a, s, d, f, g, h, j, k, l,
                         z, x, c, v, b, n, m
                         
+## Requirements
+1. You Only Need Pygame And Tkinter(inbuilt).
+2. pip install pygame
+
 ## Features
 1. Learn All Major And Minor Piano Scales.
 2. Learn Chords In Major/Minor Scale.
@@ -23,3 +27,13 @@ Learn Piano Major/Minor Scales/Chords. Create Your Own Music Using Your Computer
 [Chords And Jamming Example Video](https://www.youtube.com/watch?v=B0TjbzHoWek)
 
 [On My Way Chords Pianical](https://www.youtube.com/watch?v=z89nB4Fn2t8)
+
+## Developer Contact(Johnty Gomes)::
+[Whatsapp](api.whatsapp.send?phone=+919773211427)
+[Insta](http://instagram.com/johntygomes7)
+[FB](https://www.facebook.com/guitarical.guy.7/)
+[Linkedin](https://www.linkedin.com/in/johnty-g-315946b9/)
+[Youtube](https://www.youtube.com/c/GuitaricalMaster/)
+
+
+
