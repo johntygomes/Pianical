@@ -31,7 +31,7 @@ Learn Piano Major/Minor Scales/Chords. Create Your Own Music Using Your Computer
 [On My Way Chords Pianical](https://www.youtube.com/watch?v=z89nB4Fn2t8)
 
 ## Developer Contact(Johnty Gomes)::
-[Whatsapp](api.whatsapp.send?phone=+919773211427)
+[Whatsapp](http://api.whatsapp.com/send?phone=+919773211427)
 [Insta](http://instagram.com/johntygomes7)
 [FB](https://www.facebook.com/guitarical.guy.7/)
 [Linkedin](https://www.linkedin.com/in/johnty-g-315946b9/)
